@@ -19,18 +19,18 @@ export default function Contact() {
             &gt; github/abhishek-rr
           </a>
           <a
-            href="https://linkedin.com/in/"
+            href="https://www.linkedin.com/in/abhishek-ranjane/"
             target="_blank"
             rel="noopener noreferrer"
             className="block text-text-muted hover:text-terminal-green transition-colors"
           >
-            &gt; linkedin (update link)
+            &gt; linkedin/abhishek-ranjane
           </a>
           <a
-            href="mailto:your@email.com"
+            href="mailto:abhishekranjane33@gmail.com"
             className="block text-text-muted hover:text-terminal-green transition-colors"
           >
-            &gt; email (update address)
+            &gt; abhishekranjane33@gmail.com
           </a>
         </div>
       </div>
